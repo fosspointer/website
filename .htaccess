@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !(\.(css|js|jpg|jpeg|png|gif|svg)|discord)$
+RewriteCond %{REQUEST_URI} !^/linc-docs/ [NC]
+RewriteRule ^(.*)$ router.php [L,QSA]
