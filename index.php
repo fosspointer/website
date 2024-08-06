@@ -20,7 +20,6 @@
             <ul>
                 <li><a href="/" class="selected">Home</a></li>
                 <li><a href="/linc">Linc</a></li>
-                <!-- <li><a href="./physicscpp.html">PhysicsCPP</a></li> -->
                 <li><a href="/linc-docs" target="_blank" class="external">Linc Docs</a></li>
                 <li><a href="https://github.com/fosspointer" target="_blank" class="external">GitHub</a></li>
             </ul>

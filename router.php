@@ -12,7 +12,6 @@ $routes = [
 if (array_key_exists($route, $routes)) {
     include($routes[$route]);
 } else {
-    http_response_code(404);
-    echo "404 - Not Found";
+    include('404.php');
 }
 ?>
