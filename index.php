@@ -75,7 +75,7 @@
                 <li><a href="http://discordapp.com/users/1052728873944617062">Discord</a></li>
                 <li><a href="mailto:contact@fosspointer.com">E-mail</a></li>
             </ul>
-            <h2>&copy; Copyright 2024</h2>
+            <h2>&copy; Copyright 2024 - Νεφέλη Κωνσταντάτου</h2>
         </div>
     </div>
 </body>
