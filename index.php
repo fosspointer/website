@@ -28,10 +28,10 @@
             <h2>General Information</h2>
             <p>
                 I'm a 17 year old high school student living in Greece, with a passion for computer science and language.
-                I've been programming for nearly 8 years, focusing on writing efficient and expandable software in C++, and in particular, free and open-source,
+                I've been programming for 8 years, focusing on writing efficient and expandable software in C++, and in particular, free and open-source,
                 utilizing copyleft licensing (GNU General Public License v3).
                 In addition, I have presented one of my most recent projects, PhysicsCPP, at the 13th Panhellenic/International Conference "ICT in Education".
-                I'm currently working on a custom programming language called Linc (Linc Is Not C) with the goal of offering an alternative to languages like C,
+                The project I'm currently working on is a general-purpose programming language called Linc (Linc Is Not C) with the goal of offering an alternative to languages like C,
                 C++ and Rust for system level programming. The language has already seen a great amount of progress, with support for static typing, functions, loops,
                 string manipulation, preprocessor definitions and more... I believe it to be my biggest and most interesting project so far.
             </p>
@@ -58,7 +58,7 @@
                 <li style="margin: 0.6rem"><p><strong>Window Manager: </strong><a href="https://hyprland.org/">Hyprland (Wayland)</a></p></li>
                 <li style="margin: 0.6rem"><p><strong>Display Manager: </strong><a href="https://wiki.archlinux.org/title/SDDM">SDDM</a></p></li>
                 <li style="margin: 0.6rem"><p><strong>Programming Language: </strong><a href="https://wiki.archlinux.org/title/C">C/C++</a></p></li>
-                <li style="margin: 0.6rem"><p><strong>Compiler of choice: </strong><a href="https://clang.llvm.org/">Clang</a></p></li>
+                <li style="margin: 0.6rem"><p><strong>Compiler of choice: </strong><a href="https://gcc.gnu.org/">GCC</a></p></li>
                 <li style="margin: 0.6rem"><p><strong>Project Generation: </strong><a href="https://cmake.org/">CMake</a></p></li>
                 <li style="margin: 0.6rem"><p><strong>Source Control: </strong><a href="https://git-scm.com/">Git</a> +
                     <a href="https://github.com/">GitHub</a></p></li>
@@ -67,6 +67,7 @@
                     <a href="https://www.gnu.org/software/emacs/">GNU Emacs</a></p></li>
                 <li style="margin: 0.6rem"><p><strong>Terminal: </strong><a href="https://alacritty.org/">Alacritty</a></p></li>
                 <li style="margin: 0.6rem"><p><strong>Color Scheme: </strong><a href="https://draculatheme.com/">Dracula</a></p></li>
+                <li style="margin: 0.6rem"><p><strong>My dotfiles: </strong><a href="https://github.com/fosspointer/dotfiles">GitHub Repo</a></p></li>
             </ul>
         </div>
         <div id="footer">
