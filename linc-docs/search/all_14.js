@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['unaryexpression_0',['UnaryExpression',['../classlinc_1_1UnaryExpression.html',1,'linc']]],
-  ['unix_20based_20systems_1',['Linux and Unix-based systems',['../index.html#autotoc_md5',1,'']]]
+  ['value_0',['Value',['../classlinc_1_1Value.html',1,'linc']]],
+  ['valueassignment_1',['ValueAssignment',['../classlinc_1_1VariableDeclaration_1_1ValueAssignment.html',1,'linc::VariableDeclaration']]],
+  ['variabledeclaration_2',['VariableDeclaration',['../classlinc_1_1VariableDeclaration.html',1,'linc']]],
+  ['variableforspecifier_3',['VariableForSpecifier',['../structlinc_1_1ForExpression_1_1VariableForSpecifier.html',1,'linc::ForExpression']]]
 ];

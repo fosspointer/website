@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['node_0',['Node',['../classlinc_1_1Node.html',1,'linc']]],
-  ['nodeinfo_1',['NodeInfo',['../structlinc_1_1NodeInfo.html',1,'linc']]],
-  ['not_20c_2',['LINC Language: Linc Is Not C',['../index.html',1,'']]],
-  ['numberbase_3',['NumberBase',['../structlinc_1_1Token.html#a48500aa126914866483339efb5179c93',1,'linc::Token']]]
+  ['operator_28_29_0',['operator()',['../classlinc_1_1Lexer.html#a402f5fa2d65dd37507341be62b17846d',1,'linc::Lexer::operator()()'],['../classlinc_1_1Parser.html#ab282157fb8f9303599572c1f0f8e7c11',1,'linc::Parser::operator()()']]],
+  ['operators_1',['Operators',['../classlinc_1_1Operators.html',1,'linc']]],
+  ['optimizer_2',['Optimizer',['../classlinc_1_1Optimizer.html',1,'linc']]],
+  ['option_3',['Option',['../structArguments_1_1Option.html',1,'Arguments']]]
 ];
