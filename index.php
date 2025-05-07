@@ -27,7 +27,7 @@
         <div id="content">
             <h2>General Information</h2>
             <p>
-                I'm a 17 year old high school student living in Greece, with a passion for computer science and language.
+                I'm an 18 year old high school student living in Greece, with a passion for computer science and language.
                 I've been programming for 8 years, focusing on writing efficient and expandable software in C++, and in particular, free and open-source,
                 utilizing copyleft licensing (GNU General Public License v3).
                 In addition, I have presented one of my most recent projects, PhysicsCPP, at the 13th Panhellenic/International Conference "ICT in Education".
