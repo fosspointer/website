@@ -212,6 +212,7 @@ span {
     position: absolute;
     top: 15vh;
     z-index: 10;
+    border: 0.4rem solid var(--color-pink);
     background: var(--color-line);
     width: 70vw;
     min-height: 70vh;
