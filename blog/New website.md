@@ -1,4 +1,4 @@
-# Wooho 🎉
+# Woohoo 🎉
 
 First post here, the new website is looking nice and shiny :\)
 

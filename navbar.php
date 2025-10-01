@@ -12,5 +12,6 @@
             $view, ucfirst($view));
     }
     ?>
+        <li><a href="https://hestia.fosspointer.com:3000" target="_blank">Git</a></li>
     </ul>
 </div>

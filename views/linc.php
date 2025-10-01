@@ -4,8 +4,7 @@ $current_view = __FILE__;
 include 'header.php';
 ?>
 <div id="content">
-    <p><sup><i>For the Linc docs, click <a href="/linc-docs/index.html">here</a></i></sup></p>
-    <p><a href="https://github.com/fosspointer/linc">Linc</a> (pronounced /lɪŋk/, short for 'Linc Is Not C') is a general-purpose programming language inspired by C. It offers a <strong>dynamic</strong> experience to writing code, as well as serving as a more consistent and uniform tool, while avoiding the accumulated technical debt of languages such as C and C++. Though a work-in-progress, the featureful lincenv REPL, as well as the <a href="https://marketplace.visualstudio.com/items?itemName=fosspointer.linc">Linc VSCode extension</a> make writing Linc code feel easy.</p>
+    <p><a href="https://github.com/lincorg/linc">Linc</a> (pronounced /lɪŋk/, short for 'Linc Is Not C') is a general-purpose programming language inspired by C. It offers a <strong>dynamic</strong> experience to writing code, as well as serving as a more consistent and uniform tool, while avoiding the accumulated technical debt of languages such as C and C++. Though a work-in-progress, the featureful lincenv REPL, as well as the <a href="https://marketplace.visualstudio.com/items?itemName=fosspointer.linc">Linc VSCode extension</a> make writing Linc code feel easy.</p>
     <p>Linc was designed to be:</p>
     <ul class="vertical list">
         <li><strong>Expressive</strong>: Linc aims to offer expressivity, via syntactic ease of use, as well as useful features that are not typically seen in most programming languages, either as a deliberate choice to maintain a language's direction, or just because expressivity is not focused.</li>
