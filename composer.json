@@ -1,0 +1,24 @@
+{
+    "name": "fosspointer/website",
+    "description": "personal website",
+    "type": "project",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Fosspointer\\Website\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "php -d max_execution_time=0 -S localhost:8000 -t ."
+    },
+    "authors": [
+        {
+            "name": "Νεφέλη Κωνσταντάτου",
+            "email": "nephelekonstantatou@gmail.com"
+        }
+    ],
+    "require": {},
+    "config": {
+        "process-timeout": 0
+    }
+}
