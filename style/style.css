@@ -147,7 +147,7 @@ span {
     transition: all 0.3s ease-in-out;
 }
 
-#text:hover > a h1{
+#text:hover > a h1 {
     border-color: var(--color-purple);
     padding: 1rem;
 }
@@ -213,7 +213,8 @@ span {
     top: 15vh;
     z-index: 10;
     border: 0.4rem solid var(--color-pink);
-    background: var(--color-line);
+    background: color-mix(in srgb, var(--color-line) 90%, transparent);
+    backdrop-filter: blur(0.3rem);
     width: 70vw;
     min-height: 70vh;
 }
