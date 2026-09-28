@@ -18,7 +18,7 @@ else if($route == 'get-post') {
 
             if($ext != 'md')
             {
-                http_response_code(403);
+                http_response_code(404);
                 echo 'Invalid file type.';
                 kill();
             }
